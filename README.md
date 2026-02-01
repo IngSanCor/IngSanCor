@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/IngSanCor/IngSanCor/main/banner.png" 
+     alt="Profile Banner" 
+     width="100%" />
+
 ### About me 
 I am a Computer Systems / Engineering student focused on **software development, databases, and digital transformation solutions**.  
 I have experience developing **Android applications**, **database-driven systems**, and **administrative platforms**, especially for **business and governmental environments**.
