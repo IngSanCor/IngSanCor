@@ -65,7 +65,8 @@ I am particularly interested in **Backend Development, Database Design, Software
 <summary>Connect with me 🤝</summary>
 <br/>
 
-<a href="https://github.com/Davekibh">
+
+<a href="https://github.com/IngSanCor">
   <img align="left" alt="GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 
@@ -78,34 +79,6 @@ I am particularly interested in **Backend Development, Database Design, Software
 
 ---
 
-### GitHub Activity 
 
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" />
-</a>
-
----
-
-### Featured Projects 
-
-Projects focused on **system management, Android apps, and digital solutions**:
-
-<a href="https://github.com/Davekibh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=RestaurantSystems&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Urban_Boutique&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Solucion-en-Casa&theme=tokyonight" />
-</a>
-
----
 
 
