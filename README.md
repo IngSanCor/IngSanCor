@@ -1,57 +1,111 @@
-## Hi there 👋
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,express,figma,github,html,java,js,kotlin,linux,mongodb,mysql,nodejs,py,react,ts,androidstudio,arduino,azure,eclipse,vscode&perline=14" />
-  </a>
-</p>
+### About me 👨‍💻
+I am a Computer Systems / Engineering student focused on **software development, databases, and digital transformation solutions**.  
+I have experience developing **Android applications**, **database-driven systems**, and **administrative platforms**, especially for **business and governmental environments**.
 
+I am particularly interested in **Backend Development, Database Design, Software Architecture**, and **Cybersecurity**, and I enjoy building solutions that replace manual or paper-based processes with efficient digital systems.
 
-- **Languages**:
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,kotlin,py&perline=14" />
-  </a>
-</p>
-    
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-<br>   
-    
-- **Front-End Development**:
+- 🔭 Currently working on **Android Development & Database Systems**
+- 🌱 Learning **Backend Development, Software Architecture & Cybersecurity**
+- 👯 Open to collaborate on **Android, Backend, and Database projects**
+- 🤔 Interested in **Open Source contributions**
+- 💬 Ask me about **Android Studio, Kotlin, SQL, PostgreSQL, System Design**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy turning real-world problems into digital solutions
 
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js&perline=14" />
-  </a>
-</p>
+---
 
-<br>
+<details>
+<summary>Languages and Tools 🛠</summary>
+<br/>
 
-- **Cloud Hosting**:
+**Programming & Development**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
+**Frameworks & Platforms**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 
-- **Softwares and Tools**:
+**Databases**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+**Tools**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 
-<br>
+</details>
 
-- **Extras**:
+---
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<details>
+<summary>Areas of Interest 🚀</summary>
+<br/>
 
+- 📱 Android Application Development
+- 🗄 Database Design & Normalization
+- 🧩 Software Architecture (Layered Architecture, MVC)
+- 🏛 Digitalization of Government & Administrative Processes
+- 🔐 Cybersecurity Fundamentals
+- 📊 Data Management & System Transparency
 
-</p>
+</details>
+
+---
+
+<details>
+<summary>Connect with me 🤝</summary>
+<br/>
+
+<a href="https://github.com/Davekibh">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+
+<br/><br/>
+</details>
+
+---
+
+### GitHub Activity 📈
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" />
+</a>
+
+---
+
+### Featured Projects ✨
+
+Projects focused on **system management, Android apps, and digital solutions**:
+
+<a href="https://github.com/Davekibh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=RestaurantSystems&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Urban_Boutique&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Solucion-en-Casa&theme=tokyonight" />
+</a>
+
+---
+
+### Show ❤️ by ⭐ my repositories!
