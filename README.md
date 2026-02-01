@@ -1,18 +1,18 @@
-### About me 👨‍💻
+### About me 
 I am a Computer Systems / Engineering student focused on **software development, databases, and digital transformation solutions**.  
 I have experience developing **Android applications**, **database-driven systems**, and **administrative platforms**, especially for **business and governmental environments**.
 
 I am particularly interested in **Backend Development, Database Design, Software Architecture**, and **Cybersecurity**, and I enjoy building solutions that replace manual or paper-based processes with efficient digital systems.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 Currently working on **Android Development & Database Systems**
-- 🌱 Learning **Backend Development, Software Architecture & Cybersecurity**
-- 👯 Open to collaborate on **Android, Backend, and Database projects**
-- 🤔 Interested in **Open Source contributions**
-- 💬 Ask me about **Android Studio, Kotlin, SQL, PostgreSQL, System Design**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy turning real-world problems into digital solutions
+
+- Currently working on **Android Development & Database Systems**
+- Learning **Backend Development, Software Architecture & Cybersecurity**
+- Open to collaborate on **Android, Backend, and Database projects**
+- Interested in **Open Source contributions**
+- Ask me about **Android Studio, Kotlin, SQL, PostgreSQL, System Design**
+- Pronouns: He/Him
+- Fun fact: I enjoy turning real-world problems into digital solutions
 
 ---
 
@@ -50,12 +50,12 @@ I am particularly interested in **Backend Development, Database Design, Software
 <summary>Areas of Interest 🚀</summary>
 <br/>
 
-- 📱 Android Application Development
-- 🗄 Database Design & Normalization
-- 🧩 Software Architecture (Layered Architecture, MVC)
-- 🏛 Digitalization of Government & Administrative Processes
-- 🔐 Cybersecurity Fundamentals
-- 📊 Data Management & System Transparency
+- Android Application Development
+- Database Design & Normalization
+- Software Architecture (Layered Architecture, MVC)
+- Digitalization of Government & Administrative Processes
+- Cybersecurity Fundamentals
+- Data Management & System Transparency
 
 </details>
 
@@ -78,7 +78,7 @@ I am particularly interested in **Backend Development, Database Design, Software
 
 ---
 
-### GitHub Activity 📈
+### GitHub Activity 
 
 <a href="https://github.com/Davekibh">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
@@ -90,7 +90,7 @@ I am particularly interested in **Backend Development, Database Design, Software
 
 ---
 
-### Featured Projects ✨
+### Featured Projects 
 
 Projects focused on **system management, Android apps, and digital solutions**:
 
@@ -108,4 +108,4 @@ Projects focused on **system management, Android apps, and digital solutions**:
 
 ---
 
-### Show ❤️ by ⭐ my repositories!
+
