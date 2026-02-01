@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/IngSanCor/IngSanCor/main/banner.png" 
+<img src="https://raw.githubusercontent.com/IngSanCor/IngSanCor/main/banner.jpeg" 
      alt="Profile Banner" 
      width="100%" />
 
